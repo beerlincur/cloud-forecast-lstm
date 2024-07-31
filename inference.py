@@ -81,7 +81,7 @@ for i in range (0, number_of_tasks):
     X_test, y_test = split_sequence(x_test_normalised, n_steps)
     X_test = X_test.reshape((X_test.shape[0], X_test.shape[1], n_features))
                 
-    model = keras.models.load_model('job' + job_id + '/lstm_model/model')
+    model = keras.models.load_model('model1/model.keras')
     m = model
     yh = m.predict(X_test, verbose=0)
                     
