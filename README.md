@@ -29,7 +29,3 @@ https://doi.org/10.1145/3578356.3592588 <br />
 
 ## Licence <br />
 The MIT License (MIT)
- 
-## Acknowledgements <br />
-This work is part of the grant FJC2021-047102-I, funded by MCIN/AEI/10.13039/501100011033 and the European Union «NextGenerationEU»/PRTR.<br /> 
-<img src="docs/images/micin-financiadoUEnextgeneration-prtr-aei-1.png" width="1000"/>
